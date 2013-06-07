@@ -1,8 +1,12 @@
 (* 
 
-This script will launch two terminal windows, one with your default settings and a second one, larger, with bigger font, black on white to present. Once launched, a screen session is created and both windows will display exactly the same thing.
+This script will launch two terminal windows, one with your default settings 
+and a second one, larger, with bigger font, black on white to present. 
+Once launched, a screen session is created and both windows will display exactly the same thing.
 
-This script was inspired by this article http://www.jaharmi.com/2013/05/27/demo_mirrored_terminal_sessions_with_screen
+This script was inspired by this article: 
+
+http://www.jaharmi.com/2013/05/27/demo_mirrored_terminal_sessions_with_screen
 
 Once finished, you can quit screen using CTRL-D
 
